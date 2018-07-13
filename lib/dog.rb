@@ -6,8 +6,7 @@ class Dog
  puts "Woof!"
  
  end
- puts sit
-  
+
 end  
 
 fido = Dog.new
